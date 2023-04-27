@@ -18,3 +18,9 @@ This repository contains all machine learning projects completed in the course C
 - Gaussian Mixture Models
 - PCA
 - Autoencoders
+
+## Homeworks
+- HW1 - Perceptron, Logistic and Linear Regression
+- HW2 - Decision trees, K-Nearest Neighbors and Kernel Methods
+- HW3 - SVM and Boosting
+- HW4 - Neural Networks and K-means Clustering
