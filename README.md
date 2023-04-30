@@ -18,7 +18,7 @@ This repository contains all machine learning coding projects completed in the c
 ## Homeworks
 - HW1 - Perceptron, Logistic and Linear Regression
   - Binary Classification: coding perceptron and logistic model from objective and loss functions
-  - Polynomial Regression: coding linear and polynomial regression objective functions as well as $L_2$-regularization
+  - Polynomial Regression: coding linear and polynomial regression objective functions and $L_2$-regularization forms
 - HW2 - Decision trees, K-Nearest Neighbors and Kernel Methods
   - Bias-Variance Tradeoff: comparing learning curves of different models on breast cancer data
   - Titanic: applying decision tree and KNN to predict which passengers survived the tragedy
