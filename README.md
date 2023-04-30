@@ -1,6 +1,6 @@
 # CS146-Machine-Learning
 
-This repository contains all machine learning projects completed in the course CS M146: Introduction to Machine Learning at UCLA during spring quarter 2022, taught by Professor Aditya Grover.
+This repository contains all machine learning coding projects completed in the course CS M146: Introduction to Machine Learning at UCLA during spring quarter 2022, taught by Professor Aditya Grover.
 
 ## Course Contents
 | Supervised Learning  | Unsupervised Learning |
