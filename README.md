@@ -17,10 +17,12 @@ This repository contains all machine learning coding projects completed in the c
 
 ## Homeworks
 - HW1 - Perceptron, Logistic and Linear Regression
+  - Binary Classification: coding perceptron and logistic model from objective functions without using python libraries
+  - Polynomial Regression: coding linear and polynomial regressions as well as $L_2$-regularization without predefind libraries
 - HW2 - Decision trees, K-Nearest Neighbors and Kernel Methods
-  - Bias-Variance Tradeoff: compare learning curves of different models on breast cancer data
-  - Titanic: apply decision tree and KNN to predict which passengers survived the tragedy
+  - Bias-Variance Tradeoff: comparing learning curves of different models on breast cancer data
+  - Titanic: applying decision tree and KNN to predict which passengers survived the tragedy
 - HW3 - SVM and Boosting
-  - Twitter Analysis using SVM: classify tweets as either positive or negative reviews
-  - Boosting vs. Decision Tree: explore the effect of hyperparameters on ensemble performance 
+  - Twitter Analysis using SVM: classifying tweets as either positive or negative reviews
+  - Boosting vs. Decision Tree: exploring the effect of hyperparameters on ensemble performance 
 - HW4 - Neural Networks, PCA and K-means Clustering
