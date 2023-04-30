@@ -19,4 +19,6 @@ This repository contains all machine learning coding projects completed in the c
 - HW1 - Perceptron, Logistic and Linear Regression
 - HW2 - Decision trees, K-Nearest Neighbors and Kernel Methods
 - HW3 - SVM and Boosting
+  - Twitter Analysis using SVM: classifying tweets as either positive or negative reviews
+  - Boosting vs. Decision Tree: exploring the effect of hyperparameters on ensemble performance 
 - HW4 - Neural Networks, PCA and K-means Clustering
