@@ -26,3 +26,5 @@ This repository contains all machine learning coding projects completed in the c
   - Twitter Analysis using SVM: classifying tweets as either positive or negative reviews
   - Boosting vs. Decision Tree: exploring the effect of hyperparameters on ensemble performance 
 - HW4 - Neural Networks, PCA and K-means Clustering
+  - A Two-Layer Neural Network for Binary Classification
+  - K-Means Clustering
